@@ -61,9 +61,9 @@ API desenvolvida para gerenciamento e processamento de pedidos de diferentes emp
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorCaixeBerzoti&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorCaixeBerzoti&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCaixeBerzoti&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCaixeBerzoti&layout=compact&theme=dark)
 
 ---
 
