@@ -42,6 +42,7 @@ API para gerenciamento e integração de pedidos de diferentes empresas.
 
 ### Linguagens
 
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
